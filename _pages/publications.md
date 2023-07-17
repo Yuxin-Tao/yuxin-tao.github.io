@@ -8,7 +8,7 @@ author_profile: true
 - Li, D., **Tao, Y.**<sup>*</sup>, Yang, Y., Zhang, R. (2023).
 **Maximum likelihood estimation for &alpha-stable double autoregressive models.**
 _Journal of Econometrics_, 236(1). [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001653)
-[[code]]
+[[code]](https://github.com/Yuxin-Tao/alpha-stable-Double-Autoregressive-Models)
 
 - **Tao, Y.**, Li, D., Niu, X. (2023+).
 **Grouped network Poisson autoregressive model.**
