@@ -14,10 +14,10 @@ My primary research interests lies in the field of financial econometrics, non-l
 
 Beyond academics, I love music, movies, and travelling.
 
-## Education:
-* Ph.D. in Statistics, Tsinghua University, 2019-now.
-* B.E. in Economics, Tsinghua University, 2016-2019.
-* B.A. in Foreign Languages, Tsinghua University, 2015-2019.
+## Education
+* Ph.D. in [Statistics](http://www.stat.tsinghua.edu.cn), Tsinghua University, 2019-now.
+* B.E. in [Economics](https://www.sem.tsinghua.edu.cn/en/), Tsinghua University, 2016-2019.
+* B.A. in [Foreign Languages](https://www.dfll.tsinghua.edu.cn), Tsinghua University, 2015-2019.
 
-## Contact:
+## Contact
 Emails: taoyx19@mails.tsinghua.edu.cn
