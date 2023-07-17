@@ -1,15 +1,7 @@
 ---
 permalink: /
-title: "About"; "Education"
+title: "About"
 excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-permalink: /
-title: "Education"
-excerpt: "Education"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,7 +14,7 @@ My primary research interests lies in the field of financial econometrics, non-l
 
 Beyond academics, I love music, movies, and travelling.
 
-Education:
+# Education:
 Ph.D. in Statistics, Tsinghua University, 2019-now.
 B.E. in Economics, Tsinghua University, 2016-2019.
 B.A. in Foreign Languages, Tsinghua University, 2015-2019.
