@@ -20,4 +20,4 @@ Beyond academics, I love music, movies, and travelling.
 * B.A. in [Foreign Languages](https://www.dfll.tsinghua.edu.cn), Tsinghua University, 2015-2019.
 
 ## Contact
-Emails: taoyx19@mails.tsinghua.edu.cn
+Emails: taoyx19[at]mails.tsinghua.edu.cn
