@@ -17,12 +17,12 @@ _Statistica Sinica_, 34(3).
 "[No evidence for persistent natural plague reservoirs in historical and modern Europe](https://www.pnas.org/doi/full/10.1073/pnas.2209816119)".
 _Proceedings of the National Academy of Sciences_, 119(51).
 
-(<sup>*</sup> equal contribution or alphabetical order)
+(<sup>*</sup> denotes equal contribution or alphabetical order)
 
 
 
-## Work in progress
+## Working papers
 
-- Tao, Y. and Li, D. (2023). "Statistical Inference for &alpha-stable asymmetric GARCH models".
+- Tao, Y. and Li, D. (2023). "Statistical Inference for &alpha-stable asymmetric GARCH models". _In preperation_.
 
-- Tao, Y. and Li, D. (2023). "Statistical Inference for power autoregressive conditional duration models with stable innovations".
+- Tao, Y. and Li, D. (2023). "Statistical Inference for power autoregressive conditional duration models with stable innovations". _In preperation_.
