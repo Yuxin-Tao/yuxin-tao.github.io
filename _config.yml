@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yuxin Tao"
   avatar           : "profile.png"
-  bio              : "A beautiful girl"
+  bio              : "Ph.D. candidate in Statistics"
   location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=mnW5_e0AAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yuxin-Tao-7"
   uri              :
   bitbucket        :
   codepen          :
