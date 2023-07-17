@@ -12,7 +12,8 @@ _Journal of Econometrics_, 236(1). [[pdf]](https://www.sciencedirect.com/science
 
 - **Tao, Y.**, Li, D., Niu, X. (2023+).
 **Grouped network Poisson autoregressive model.**
-_Statistica Sinica_, 34(3). [[pdf]](https://www3.stat.sinica.edu.tw/preprint/supp/2022-0040_supp.pdf)
+_Statistica Sinica_, 34(3). [[pdf]](https://www3.stat.sinica.edu.tw/preprint/SS-2022-0040_Preprint.pdf)
+[[supp]](https://www3.stat.sinica.edu.tw/preprint/supp/2022-0040_supp.pdf)
 
 - Stenseth, NC., **Tao, Y.**<sup>*</sup>, Zhang, C., et al. (2022).
 **No evidence for persistent natural plague reservoirs in historical and modern Europe.**
