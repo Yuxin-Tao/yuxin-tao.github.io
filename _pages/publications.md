@@ -20,7 +20,7 @@ _Proceedings of the National Academy of Sciences_, 119(51).
 (<sup>*</sup> equal contribution or alphabetical order)
 
 
-## Works in progress
+# Works in progress
 
 - Tao, Y. and Li, D. (2023). "Statistical Inference for &alpha-stable asymmetric GARCH models".
 
