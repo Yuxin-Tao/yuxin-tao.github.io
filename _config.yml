@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=mnW5_e0AAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Yuxin-Tao-7"
+  researchgate     : #"https://www.researchgate.net/profile/Yuxin-Tao-7"
   uri              :
   bitbucket        :
   codepen          :
