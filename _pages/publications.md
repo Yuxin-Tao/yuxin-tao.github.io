@@ -25,6 +25,6 @@ _Proceedings of the National Academy of Sciences_, 119(51). [[pdf]](https://www.
 
 ## Working papers
 
-- Tao, Y. and Li, D. "Statistical Inference for &alpha-stable asymmetric GARCH models". _In preperation_.
+- **Tao, Y.** and Li, D. "Statistical Inference for &alpha-stable asymmetric GARCH models". _In preperation_.
 
-- Tao, Y. and Li, D. "Statistical Inference for power autoregressive conditional duration models with stable innovations". _In preperation_.
+- **Tao, Y.** and Li, D. "Statistical Inference for power autoregressive conditional duration models with stable innovations". _In preperation_.
