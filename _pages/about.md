@@ -15,7 +15,7 @@ My primary research interests lie in the field of financial econometrics, non-li
 Beyond academics, I love music, movies, and travelling.
 
 ## Education
-* Ph.D. in [Statistics](http://www.stat.tsinghua.edu.cn), Tsinghua University, 2019-now.
+* Ph.D. in [Statistics](http://www.stat.tsinghua.edu.cn/en/), Tsinghua University, 2019-now.
 * B.E. in [Economics](https://www.sem.tsinghua.edu.cn/en/), Tsinghua University, 2016-2019.
 * B.A. in [Foreign Languages](https://www.dfll.tsinghua.edu.cn), Tsinghua University, 2015-2019.
 
