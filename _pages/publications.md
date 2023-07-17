@@ -5,12 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Stenseth, NC., **Tao, Y.** <sup>*</sup>, Zhang, C., et al. (2022) 
-[No evidence for persistent natural plague reservoirs in historical and modern Europe](https://www.pnas.org/doi/full/10.1073/pnas.2209816119).
-Proceedings of the National Academy of Sciences, 119(51).
-- Li, D., **Tao, Y.** <sup>*</sup>, Yang, Y., Zhang, R. (2023)
-[Maximum likelihood estimation for $\alpha$-stable double autoregressive models](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001653).
-Journal of Econometrics, 236(1).
-\textbf{Tao, Y.}$^*$, Li, D., Niu, X. (2024). Grouped network Poisson autoregressive model, \textit{Statistica Sinica}, 34(3).
-- Yuxin Tao, JOE, 2023, accepted.
-- Sinica. 
+- Li, D., **Tao, Y.**<sup>*</sup>, Yang, Y., Zhang, R. (2023).
+"[Maximum likelihood estimation for $\alpha$-stable double autoregressive models](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001653)".
+_Journal of Econometrics_, 236(1).
+
+- **Tao, Y.**, Li, D., Niu, X. (2023+).
+"[Grouped network Poisson autoregressive model](https://www3.stat.sinica.edu.tw/preprint/supp/2022-0040_supp.pdf)".
+_Statistica Sinica_, 34(3).
+
+- Stenseth, NC., **Tao, Y.**<sup>*</sup>, Zhang, C., et al. (2022).
+"[No evidence for persistent natural plague reservoirs in historical and modern Europe](https://www.pnas.org/doi/full/10.1073/pnas.2209816119)".
+_Proceedings of the National Academy of Sciences_, 119(51).
+
+(<sup>*</sup> equal contribution or alphabetical order)
