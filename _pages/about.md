@@ -7,6 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+permalink: /
+title: "Education"
+excerpt: "Education"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Hi! I am a fourth-year Ph.D. student at [Center for Statistical Science](http://www.stat.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn/en/), and I am fortunate to be advised by Professor [Dong Li](http://www.stat.tsinghua.edu.cn/teachers/李东/). Currently, I am visiting the [Department of Statistics](https://statistics.fas.harvard.edu/home) at Harvard University for one year, and I am fortunate to be mentored by Professor [Zheng (Tracy) Ke](http://zke.fas.harvard.edu/index.html).
 
