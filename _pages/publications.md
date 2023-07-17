@@ -6,16 +6,17 @@ author_profile: true
 ---
 
 - Li, D., **Tao, Y.**<sup>*</sup>, Yang, Y., Zhang, R. (2023).
-"[Maximum likelihood estimation for &alpha-stable double autoregressive models](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001653)".
-_Journal of Econometrics_, 236(1).
+**Maximum likelihood estimation for &alpha-stable double autoregressive models.**
+_Journal of Econometrics_, 236(1). [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001653)
+[[code]]
 
 - **Tao, Y.**, Li, D., Niu, X. (2023+).
-"[Grouped network Poisson autoregressive model](https://www3.stat.sinica.edu.tw/preprint/supp/2022-0040_supp.pdf)".
-_Statistica Sinica_, 34(3).
+**Grouped network Poisson autoregressive model.**
+_Statistica Sinica_, 34(3). [[pdf]](https://www3.stat.sinica.edu.tw/preprint/supp/2022-0040_supp.pdf)
 
 - Stenseth, NC., **Tao, Y.**<sup>*</sup>, Zhang, C., et al. (2022).
-"[No evidence for persistent natural plague reservoirs in historical and modern Europe](https://www.pnas.org/doi/full/10.1073/pnas.2209816119)".
-_Proceedings of the National Academy of Sciences_, 119(51).
+**No evidence for persistent natural plague reservoirs in historical and modern Europe.**
+_Proceedings of the National Academy of Sciences_, 119(51). [[pdf]](https://www.pnas.org/doi/full/10.1073/pnas.2209816119)
 
 (<sup>*</sup> denotes equal contribution or alphabetical order)
 
