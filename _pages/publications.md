@@ -19,7 +19,7 @@ _Statistica Sinica_, 34(3). [[pdf]](https://www3.stat.sinica.edu.tw/preprint/SS-
 **No evidence for persistent natural plague reservoirs in historical and modern Europe.** <br>
 _Proceedings of the National Academy of Sciences_, 119(51). [[pdf]](https://www.pnas.org/doi/full/10.1073/pnas.2209816119)
 
-(<sup>*</sup> denotes equal contribution or alphabetical order)
+(<sup>*</sup> indicates equal contribution or alphabetical order)
 
 
 
