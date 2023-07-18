@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Li, D., **Tao, Y.**<sup>*</sup>, Yang, Y., Zhang, R. (2023). <br>
+- Li, D., **Tao, Y.**<sup>*</sup>, Yang, Y. and Zhang, R. (2023). <br>
 **Maximum likelihood estimation for $\alpha$-stable double autoregressive models.**  <br>
 _Journal of Econometrics_, 236(1). [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001653)
 [[code]](https://github.com/Yuxin-Tao/alpha-stable-Double-Autoregressive-Models)
 
-- **Tao, Y.**, Li, D., Niu, X. (2023+). <br>
+- **Tao, Y.**, Li, D. and Niu, X. (2023+). <br>
 **Grouped network Poisson autoregressive model.** <br>
 _Statistica Sinica_, 34(3). [[pdf]](https://www3.stat.sinica.edu.tw/preprint/SS-2022-0040_Preprint.pdf)
 [[supp]](https://www3.stat.sinica.edu.tw/preprint/supp/2022-0040_supp.pdf)
