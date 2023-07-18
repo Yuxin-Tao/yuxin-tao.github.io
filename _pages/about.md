@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a fourth-year Ph.D. student at [Center for Statistical Science](http://www.stat.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am fortunate to be advised by Professor [Dong Li](http://www.stat.tsinghua.edu.cn/teachers/李东/). Currently, I am visiting the [Department of Statistics](https://statistics.fas.harvard.edu/home) at Harvard University for one year, and I am fortunate to be mentored by Professor [Zheng (Tracy) Ke](http://zke.fas.harvard.edu/index.html).
+Hi! I am a fourth-year Ph.D. student at the [Center for Statistical Science](http://www.stat.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am fortunate to be advised by Professor [Dong Li](http://www.stat.tsinghua.edu.cn/teachers/李东/). Currently, I am visiting the [Department of Statistics](https://statistics.fas.harvard.edu/home) at Harvard University for one year, and I am fortunate to be mentored by Professor [Zheng (Tracy) Ke](http://zke.fas.harvard.edu/index.html).
 
 My research interests lie in the field of financial econometrics, non-linear time series modeling, network analysis and topic modeling. Besides, I have a broad interest in exploring the interactions of statistics with various disciplines, and considering ways in which statisticians can better contribute to the wider scientific community.
 
