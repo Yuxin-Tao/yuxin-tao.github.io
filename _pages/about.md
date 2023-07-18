@@ -12,7 +12,7 @@ Hi! I am a fourth-year Ph.D. student at [Center for Statistical Science](http://
 
 My research interests lie in the field of financial econometrics, non-linear time series modeling, network analysis and topic modeling. Besides, I have a broad interest in exploring the interactions of statistics with various disciplines, and considering ways in which statisticians can better contribute to the wider scientific community.
 
-Beyond academics, I love music, movies and travelling.
+In my spare time, I also enjoy music, movies and travel.
 
 ## Education
 * Ph.D. in [Statistics](http://www.stat.tsinghua.edu.cn/en/), Tsinghua University, 2019-now.
