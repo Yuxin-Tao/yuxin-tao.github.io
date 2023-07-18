@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+(<sup>*</sup> indicates equal contribution or alphabetical order)
 
 - Li, D., **Tao, Y.**<sup>*</sup>, Yang, Y. and Zhang, R. (2023). <br>
 **Maximum likelihood estimation for $\alpha$-stable double autoregressive models.**  <br>
@@ -18,8 +19,6 @@ _Statistica Sinica_, 34(3). [[pdf]](https://www3.stat.sinica.edu.tw/preprint/SS-
 - Stenseth, NC., **Tao, Y.**<sup>*</sup>, Zhang, C., et al. (2022). <br>
 **No evidence for persistent natural plague reservoirs in historical and modern Europe.** <br>
 _Proceedings of the National Academy of Sciences_, 119(51). [[pdf]](https://www.pnas.org/doi/full/10.1073/pnas.2209816119)
-
-(<sup>*</sup> indicates equal contribution or alphabetical order)
 
 
 
