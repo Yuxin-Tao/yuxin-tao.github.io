@@ -24,7 +24,7 @@ _Proceedings of the National Academy of Sciences_, 119(51). [[pdf]](https://www.
 
 ## Working papers
 
-- **Tao, Y.** and Li, D. **Statistical Inference for $\alpha$-stable asymmetric GARCH models.** _In preperation_. <br>
+- **Tao, Y.** and Li, D. **Statistical Inference for stable asymmetric GARCH models.** _In preperation_. <br>
 [The 2023 IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/)
 
 - **Tao, Y.** and Li, D. **Statistical Inference for power autoregressive conditional duration models with stable innovations.** _In preperation_.
