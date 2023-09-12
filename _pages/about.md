@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](../images/2023.8.jpg)
+<img src="../images/2023.8.jpg" width="600">
 
 Hi! I am a fifth-year Ph.D. student at the [Center for Statistical Science](http://www.stat.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn/en/), fortunate to be advised by Professor [Dong Li](http://www.stat.tsinghua.edu.cn/teachers/李东/). Currently, I am visiting the [Department of Statistics](https://statistics.fas.harvard.edu/home) at Harvard University for one year, and I am fortunate to be mentored by Professor [Zheng (Tracy) Ke](http://zke.fas.harvard.edu/index.html).
 
