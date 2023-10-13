@@ -16,6 +16,8 @@ My primary research interests lie in the field of financial econometrics, non-li
 
 Beyond research, I also enjoy music, movies and travel.
 
+**I am on the 2023-2024 job market.**
+
 ## Education
 * Ph.D. in [Statistics](http://www.stat.tsinghua.edu.cn/en/), Tsinghua University, 2019-now.
 * B.E. in [Economics](https://www.sem.tsinghua.edu.cn/en/), Tsinghua University, 2016-2019.
