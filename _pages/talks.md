@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **Invited speaker to Statistics and Probability Seminar at UMass Amherst**. Amherst, October 2023. <br>
+ _Statistical Inference for stable asymmetric GARCH models._
+
 - **Joint Statistical Meetings**. Toronto, August 2023. <br>
  _Statistical Inference for stable asymmetric GARCH models._
 
