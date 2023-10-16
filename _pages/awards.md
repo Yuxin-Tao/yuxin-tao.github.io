@@ -5,6 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 
+- National Scholarship, Tsinghua University. <br>
+_October 2023_
+
 - [The IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/) <br>
 _April 2023_
 	
