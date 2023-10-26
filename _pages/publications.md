@@ -27,9 +27,9 @@ Under review for _Proceedings of the National Academy of Sciences, U.S.A_.
 
 ## Working papers
 
-- **Tao, Y.** and Li, D. (2023). **Statistical Inference for stable asymmetric GARCH models.** _Manuscript_. <br>
+- **Tao, Y.** and Li, D. (2023). **Statistical inference for stable asymmetric GARCH models.** _Manuscript_. <br>
 [The 2023 IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/)
 
-- **Tao, Y.** and Li, D. (2023). **Statistical Inference for power autoregressive conditional duration models with stable innovations.** _Manuscript_.
+- **Tao, Y.** and Li, D. (2023). **Statistical inference for power autoregressive conditional duration models with stable innovations.** _Manuscript_.
 
 - Ke, Z.T. and **Tao, Y.**<sup>*</sup> (2023). **Homogeneity pursuit in ranking inferences based on pairwise comparison data.** _Manuscript_.
