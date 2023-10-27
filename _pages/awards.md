@@ -25,3 +25,7 @@ author_profile: true
 - Provincial First Prize in the Chinese Mathematical Olympiad in Senior, China. _2013 & 2014_
 
 - Provincial First Prize in the Chinese Physics Olympiad, China. _2014_
+
+- Certificate of Distinction in the American Mathematics Contest (AMC), Mathematical Association of America. _2013_
+	
+- Certificate of Participation in the American Invitational Mathematics Examination (AIME), Mathematical Association of America. _2013_
