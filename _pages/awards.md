@@ -19,9 +19,9 @@ author_profile: true
 	
 - Academic Excellence Scholarship, Tsinghua University. _October 2016_
 
-- National First Prize in the National Olympiad in Informatics in Provinces (NOIP). _2012_ <br>
+- National First Prize in the National Olympiad in Informatics in Provinces (NOIP), China. _2012_ <br>
 (High school programming competitions in C++, C, or Pascal.)
 
-- Provincial First Prize in the Chinese Mathematical Olympiad in Senior. _2013 & 2014_
+- Provincial First Prize in the Chinese Mathematical Olympiad in Senior, China. _2013 & 2014_
 
-- Provincial First Prize in the Chinese Physics Olympiad. _2014_
+- Provincial First Prize in the Chinese Physics Olympiad, China. _2014_
