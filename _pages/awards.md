@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+- Top ten outstanding paper award, National Forum on Statistics for Graduate Students. _November 2023_ 
+
 - National Scholarship, Tsinghua University. _October 2023_
 
 - [The IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/) _April 2023_
