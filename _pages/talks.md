@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **The 9th National Forum on Statistics for Graduate Students**. Beijing, November 2023. <br>
+_Statistical Inference for stable asymmetric GARCH models._
+
+- **Tsinghua Statistics Colloquium**. Beijing, November 2023. <br>
+_Homogeneity pursuit in ranking inferences based on pairwise comparison data._
+
 - [**Invited speaker to Statistics and Probability Seminar at UMass Amherst**.](https://www.umass.edu/mathematics-statistics/calendar/statistics-and-probability-seminar/27631) Amherst, October 2023. <br>
  _Statistical Inference for stable asymmetric GARCH models._
 
