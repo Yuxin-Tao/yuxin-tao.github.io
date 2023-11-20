@@ -25,4 +25,4 @@ Beyond research, I also enjoy music, movies and travel.
 * Science Experimental Class (top science class), [Nanjing Foreign Language School](http://www.nfls.com.cn/iynt/main.htm), 2012-2015.
 
 ## Contact
-Email: taoyx19[at]mails.tsinghua.edu.cn
+Email: taoyx19[at]mails.tsinghua.edu.cn, or taoyx19[at]gmail.com
