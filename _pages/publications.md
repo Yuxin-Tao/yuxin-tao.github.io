@@ -22,7 +22,7 @@ _Proceedings of the National Academy of Sciences, U.S.A._, 119(51), e2209816119.
 
 - Wang, Y., Zhang, C., ..., **Tao, Y.**, ..., Stenseth, NC., Yang, R. and Xu, L. (2023). <br>
 **Spatiotemporal prevalence of Haemorrhagic Fever with Renal Syndrome (HFRS) in China under climate variation.** <br>
-Under review for _Proceedings of the National Academy of Sciences, U.S.A_.
+Major revision for _Proceedings of the National Academy of Sciences, U.S.A_.
 
 
 ## Working papers
