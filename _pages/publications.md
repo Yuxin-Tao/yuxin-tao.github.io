@@ -20,15 +20,15 @@ _Statistica Sinica_, 34(3). [[pdf]](https://www3.stat.sinica.edu.tw/preprint/SS-
 **No evidence for persistent natural plague reservoirs in historical and modern Europe.** <br>
 _Proceedings of the National Academy of Sciences, U.S.A._, 119(51), e2209816119. [[pdf]](https://www.pnas.org/doi/full/10.1073/pnas.2209816119)
 
-- Wang, Y., Zhang, C., ..., **Tao, Y.**, ..., Stenseth, NC., Yang, R. and Xu, L. (2023). <br>
+- Wang, Y., Zhang, C., ..., **Tao, Y.**, ..., Stenseth, NC., Yang, R. and Xu, L. (2023+). <br>
 **Spatiotemporal prevalence of Haemorrhagic Fever with Renal Syndrome (HFRS) in China under climate variation.** <br>
-Major revision for _Proceedings of the National Academy of Sciences, U.S.A_.
+_Proceedings of the National Academy of Sciences, U.S.A._, forthcoming.
 
+- **Tao, Y.** and Li, D. (2023+). <br>
+**Statistical inference for stable asymmetric GARCH models.** _Submitted_. <br>
+[The 2023 IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/)
 
 ## Working papers
-
-- **Tao, Y.** and Li, D. (2023). **Statistical inference for stable asymmetric GARCH models.** _Manuscript_. <br>
-[The 2023 IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/)
 
 - **Tao, Y.** and Li, D. (2023). **Statistical inference for power autoregressive conditional duration models with stable innovations.** _Manuscript_.
 
