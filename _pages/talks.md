@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **BIRS-IASM Workshop: Harnessing the power of latent structure models and modern Big Data learning**. Hangzhou, December 2023. <br>
+_Homogeneity pursuit in ranking inferences based on pairwise comparison data._
+
 - **The 9th National Forum on Statistics for Graduate Students**. Beijing, November 2023. <br>
 _Statistical Inference for stable asymmetric GARCH models._
 
