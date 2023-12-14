@@ -25,7 +25,7 @@ _Proceedings of the National Academy of Sciences, U.S.A._, 119(51), e2209816119.
 _Proceedings of the National Academy of Sciences, U.S.A._, forthcoming.
 
 - **Tao, Y.** and Li, D. (2023+). <br>
-**Statistical inference for stable asymmetric GARCH models.** _Submitted_. <br>
+**Asymmetric GARCH modelling without moment conditions.** _Submitted_. <br>
 [The 2023 IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/)
 
 ## Working papers
