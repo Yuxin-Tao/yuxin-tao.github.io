@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **Complex Time Series Analysis: High-dimensionality, Change-points, Forecasting, and Causality**. Sanya, January 2024. <br>
+_Homogeneity pursuit in ranking inferences based on pairwise comparison data._
+
 - **BIRS-IASM Workshop: Harnessing the power of latent structure models and modern Big Data learning**. Hangzhou, December 2023. <br>
 _Homogeneity pursuit in ranking inferences based on pairwise comparison data._
 
