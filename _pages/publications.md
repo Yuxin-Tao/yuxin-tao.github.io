@@ -20,7 +20,7 @@ _Statistica Sinica_, 34(3). [[pdf]](https://www3.stat.sinica.edu.tw/preprint/SS-
 **No evidence for persistent natural plague reservoirs in historical and modern Europe.** <br>
 _Proceedings of the National Academy of Sciences, U.S.A._, 119(51), e2209816119. [[pdf]](https://www.pnas.org/doi/full/10.1073/pnas.2209816119)
 
-- Wang, Y., Zhang, C., Gao, J., Chen, Z., Liu, Z., Huang, J., Chen, Y., Li, Z., Chang, N., **Tao, Y.**, Tang, H., Gao, X., Xu, Y., Wang, C., Li, D., Liu, X., Pan, J., Cai, W., Gong, P., Luo, Y., Liang, W., Liu, Q., Stenseth, NC., Yang, R. and Xu, L. (2024). <br>
+- Wang, Y., Zhang, C., Gao, J., Chen, Z., Liu, Z., Huang, J., Chen, Y., Li, Z., Chang, N., **Tao, Y.**, Tang, H., Gao, X., Xu, Y., Wang, C., Li, D., Liu, X., Pan, J., Cai, W., Gong, P., Luo, Y., Liang, W., Liu, Q., Stenseth, NC., Yang, R. and Xu, L. (2024).
 **Spatiotemporal prevalence of Haemorrhagic Fever with Renal Syndrome (HFRS) in China under climate variation.** <br>
 _Proceedings of the National Academy of Sciences, U.S.A._, 121(4), e2312556121. [[pdf]](https://www.pnas.org/doi/10.1073/pnas.2312556121)
 
