@@ -36,5 +36,5 @@ _Proceedings of the National Academy of Sciences, U.S.A._, 121(4), e2312556121. 
 
 ## Ph.D. dissertation
 
-- **Tao, Y.** (2024). **Statistical inference and applications for conditional heteroskedasticity models with stable innovations.** <br>
+- **Tao, Y.** (2024). Statistical inference and applications for conditional heteroskedasticity models with stable innovations.
 (稳定新息驱动的条件异方差模型的统计推断与应用)
