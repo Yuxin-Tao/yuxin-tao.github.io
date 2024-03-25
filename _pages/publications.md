@@ -33,3 +33,8 @@ _Proceedings of the National Academy of Sciences, U.S.A._, 121(4), e2312556121. 
 - **Tao, Y.** and Li, D. (2024). **Statistical inference for power autoregressive conditional duration models with stable innovations.** _Manuscript_.
 
 - Ke, Z.T. and **Tao, Y.**<sup>*</sup> (2024). **Homogeneity pursuit in ranking inferences based on pairwise comparison data.** _Manuscript_.
+
+## Ph.D. dissertation
+
+- **Tao, Y.** (2024). **Statistical inference and applications for conditional heteroskedasticity models with stable innovations.** <br>
+(稳定新息驱动的条件异方差模型的统计推断与应用)
