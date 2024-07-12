@@ -19,7 +19,7 @@ Beyond research, I also enjoy music, movies and travel.
 
 
 ## Education
-* Ph.D. in [Statistics](http://www.stat.tsinghua.edu.cn/en/), Tsinghua University, 2019-now.
+* Ph.D. in [Statistics](http://www.stat.tsinghua.edu.cn/en/), Tsinghua University, 2019-2024.
 * B.E. in [Economics](https://www.sem.tsinghua.edu.cn/en/), Tsinghua University, 2016-2019.
 * B.A. in [Foreign Languages](https://www.dfll.tsinghua.edu.cn), Tsinghua University, 2015-2019.
 * Science Experimental Class (top science class), [Nanjing Foreign Language School](http://www.nfls.com.cn/iynt/main.htm), 2012-2015.
