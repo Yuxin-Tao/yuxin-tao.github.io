@@ -11,7 +11,7 @@ redirect_from:
 <!-- <img src="../images/2023.8.jpg" width="600"> -->
 
 Hi! I am an Assistant Professor in the [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech).
-I obtained my Ph.D. degree from the [Center for Statistical Science](http://www.stat.tsinghua.edu.cn/en), [Tsinghua University](https://www.tsinghua.edu.cn/en/), fortunate to be advised by Professor [Dong Li](http://www.stat.tsinghua.edu.cn/en/teachers/dongli/). In 2023, I visited the [Department of Statistics](https://statistics.fas.harvard.edu/home) at Harvard University for one year, fortunate to be mentored by Professor [Zheng (Tracy) Ke](https://zke.fas.harvard.edu).
+I obtained my Ph.D. degree from the [Center for Statistical Science](http://www.stat.tsinghua.edu.cn/en), Tsinghua University, fortunate to be advised by Professor [Dong Li](http://www.stat.tsinghua.edu.cn/en/teachers/dongli/). In 2023, I visited the [Department of Statistics](https://statistics.fas.harvard.edu/home) at Harvard University for one year, fortunate to be mentored by Professor [Zheng (Tracy) Ke](https://zke.fas.harvard.edu).
 
 My primary research interests lie in the field of financial econometrics, non-linear time series analysis, network analysis, ranking inference and topic modeling. Besides, I have a broad interest in exploring the interactions of statistics with various disciplines, and considering ways in which statisticians can better contribute to the wider scientific community.
 
