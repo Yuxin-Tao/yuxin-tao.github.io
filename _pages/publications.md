@@ -24,11 +24,11 @@ _Proceedings of the National Academy of Sciences, U.S.A._, 119(51), e2209816119.
 **Spatiotemporal prevalence of Haemorrhagic Fever with Renal Syndrome (HFRS) in China under climate variation.** <br>
 _Proceedings of the National Academy of Sciences, U.S.A._, 121(4), e2312556121. [[pdf]](https://www.pnas.org/doi/10.1073/pnas.2312556121)
 
-- **Tao, Y.** and Li, D. (2024). <br>
-**Asymmetric GARCH modelling without moment conditions.** _Submitted_. <br>
-[The 2023 IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/)
 
 ## Working papers
+
+- **Tao, Y.** and Li, D. (2024). **Asymmetric GARCH modelling without moment conditions.** _Submitted_. <br>
+[The 2023 IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/)
 
 - **Tao, Y.** and Li, D. (2024). **Statistical inference for power autoregressive conditional duration models with stable innovations.** _Manuscript_.
 
