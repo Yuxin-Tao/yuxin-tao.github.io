@@ -6,15 +6,15 @@ author_profile: true
 ---
 (<sup>*</sup> indicates equal contribution or alphabetical order)
 
+- **Tao, Y.**, Li, D. and Niu, X. (2024). <br>
+**Grouped network Poisson autoregressive model.** <br>
+_Statistica Sinica_, 34(3), 1603-1624. [[pdf]](https://www3.stat.sinica.edu.tw/preprint/SS-2022-0040_Preprint.pdf)
+[[supp]](https://www3.stat.sinica.edu.tw/preprint/supp/2022-0040_supp.pdf)
+
 - Li, D., **Tao, Y.**<sup>*</sup>, Yang, Y. and Zhang, R. (2023). <br>
 **Maximum likelihood estimation for $\alpha$-stable double autoregressive models.**  <br>
 _Journal of Econometrics_, 236(1), 105471. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001653)
 [[code]](https://github.com/Yuxin-Tao/alpha-stable-Double-Autoregressive-Models)
-
-- **Tao, Y.**, Li, D. and Niu, X. (2023+). <br>
-**Grouped network Poisson autoregressive model.** <br>
-_Statistica Sinica_, 34(3). [[pdf]](https://www3.stat.sinica.edu.tw/preprint/SS-2022-0040_Preprint.pdf)
-[[supp]](https://www3.stat.sinica.edu.tw/preprint/supp/2022-0040_supp.pdf)
 
 - Stenseth, NC., **Tao, Y.**<sup>*</sup>, Zhang, C., Bramanti, B., Büntgen, U., Cong, X., Cui, Y., Zhou, H., Dawson, L., Mooney, S., Li, D., Fell, H., Cohn, S., Sebbane, F., Slavin, P., Liang, W., Tong, H., Yang, R. and Xu, L. (2022). <br>
 **No evidence for persistent natural plague reservoirs in historical and modern Europe.** <br>
