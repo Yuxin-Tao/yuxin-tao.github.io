@@ -15,7 +15,7 @@ I obtained my Ph.D. degree from the [Center for Statistical Science](http://www.
 
 My primary research interests lie in the field of financial econometrics, non-linear time series analysis, network analysis, ranking inference and topic modeling. Besides, I have a broad interest in exploring the interactions of statistics with various disciplines, and considering ways in which statisticians can better contribute to the wider scientific community.
 
-There are some openings for potential Ph.D. and Master's students, research assistants, and postdocs. Please feel free to contact me with your CV if you are interested.
+**There are some openings for potential Ph.D. and Master's students, research assistants, and postdocs. Please feel free to contact me with your CV if you are interested.**
 
 ## Experiences
 * 2024/07 - now:  Assistant Professor, Department of Statistics and Data Science, Southern University of Science and Technology.
