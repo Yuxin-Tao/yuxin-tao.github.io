@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Instructor"
+title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 ---
 
+## Instructor
 
 * STA219 Probability and Statistics for Engineering. _Spring 2025, SUStech._
 
