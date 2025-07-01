@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Instructor"
 permalink: /teaching/
 author_profile: true
 ---
 
-## Instructor
 
 * STA219 Probability and Statistics for Engineering. _Spring 2025, SUStech._
 
@@ -13,10 +12,10 @@ author_profile: true
 
 ## Teaching Assistant
 
-- Multivariate Statistical Analysis. _Spring 2021, Tsinghua._
+* Multivariate Statistical Analysis. _Spring 2021, Tsinghua._
 
-- Probability Theory.  _Fall 2020, Tsinghua._
+* Probability Theory.  _Fall 2020, Tsinghua._
 
-- Applied Time Series Analysis.   _Spring 2020, Tsinghua._
+* Applied Time Series Analysis.   _Spring 2020, Tsinghua._
 
-- Elementary Probability Theory.   _Fall 2019, Tsinghua._
+* Elementary Probability Theory.   _Fall 2019, Tsinghua._
