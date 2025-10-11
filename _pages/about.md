@@ -29,4 +29,4 @@ My primary research interests lie in the field of financial econometrics, non-li
 * 2012/09 - 2015/07:  Science Experimental Class (top science class), [Nanjing Foreign Language School](http://www.nfls.com.cn/iynt/main.htm).
 
 ## Contact
-Email: taoyx[at]sustech.edu.cn, or taoyx19[at]gmail.com
+Email: taoyx[at]sustech.edu.cn
