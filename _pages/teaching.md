@@ -7,6 +7,12 @@ author_profile: true
 
 ## Instructor
 
+* STA219 Probability and Statistics for Engineering. _Fall 2026, SUStech._
+
+* MAT7107 Financial Statistics. _Spring 2026, SUStech._
+
+* STA219 Probability and Statistics for Engineering. _Fall 2025, SUStech._
+
 * STA219 Probability and Statistics for Engineering. _Spring 2025, SUStech._
 
 * STA219 Probability and Statistics for Engineering. _Fall 2024, SUStech._
