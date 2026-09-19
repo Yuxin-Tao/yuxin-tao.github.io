@@ -11,10 +11,10 @@ author_profile: true
 
 - [The IMS Hannan Graduate Student Travel Award](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/), Institute of Mathematical Statistics. _2023_
 
+- National Scholarship, Tsinghua University. _2023_
+
 - Top ten outstanding paper award, National Forum on Statistics for Graduate Students. _2023_ 
 
-- National Scholarship, Tsinghua University. _2023_
-	
 - Outstanding paper award, Symposium of Beijing Institute of Applied Statistics. _2022_
 	
 - Second prize of outstanding paper, National Academic Forum for Doctoral Students in Statistics. _2022_
