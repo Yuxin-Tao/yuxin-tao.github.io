@@ -6,6 +6,10 @@ author_profile: true
 ---
 (<sup>*</sup> indicates equal contribution or alphabetical order)
 
+- **Tao, Y.**, Gong, H. and Li, D. (2026+). <br>
+**Asymmetric GARCH modelling without moment conditions.**  <br>
+_Statistica Sinica_, just accepted. [[pdf]](https://arxiv.org/pdf/2410.00574)
+
 - **Tao, Y.**, Li, D. and Niu, X. (2024). <br>
 **Grouped network Poisson autoregressive model.** <br>
 _Statistica Sinica_, 34(3), 1603-1624. [[pdf]](https://www3.stat.sinica.edu.tw/preprint/SS-2022-0040_Preprint.pdf)
@@ -25,14 +29,15 @@ _Proceedings of the National Academy of Sciences, U.S.A._, 119(51), e2209816119.
 _Proceedings of the National Academy of Sciences, U.S.A._, 121(4), e2312556121. [[pdf]](https://www.pnas.org/doi/10.1073/pnas.2312556121)
 
 
-## Working papers
+## Preprints
 
-- **Tao, Y.** and Li, D. (2024). **Asymmetric GARCH modelling without moment conditions.** _Submitted_. <br>
-[The 2023 IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/)
+- Ke, Z.T. and **Tao, Y.**<sup>*</sup> (2026). **Homogeneity pursuit in ranking inferences based on pairwise comparison.** _Submitted_.
 
-- **Tao, Y.** and Li, D. (2024). **Statistical inference for power autoregressive conditional duration models with stable innovations.** _Manuscript_.
+- Gong, H., Li, D. and **Tao, Y.**<sup>*</sup> (2026). **A unified framework for robust and efficient inference on GARCH models under heavy tails, skewness and nonstationarity.** _Submitted_.
 
-- Ke, Z.T. and **Tao, Y.**<sup>*</sup> (2024). **Homogeneity pursuit in ranking inferences based on pairwise comparison data.** _Manuscript_.
+- **Tao, Y.**, Jiang, F. and Shao, X. (2026). **Generalized Spectral Testing with Sample Splitting.** _Submitted_. [[pdf]](https://arxiv.org/pdf/2605.29315)
+
+- **Tao, Y.** and Li, D. (2026). **Statistical inference for power autoregressive conditional duration models with stable innovations.** _Manuscript_.
 
 ## Ph.D. dissertation
 
