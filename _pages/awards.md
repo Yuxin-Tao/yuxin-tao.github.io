@@ -5,11 +5,11 @@ permalink: /awards/
 author_profile: true
 ---
 
-- IMS New Researcher Travel Award, Institute of Mathematical Statistics. _2026_	
+- The IMS New Researcher Travel Award, Institute of Mathematical Statistics. _2026_	
 	
 - ICSA China Conference Junior Research Award, International Chinese Statistical Association. _2026_
 
-- [The IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/) _2023_
+- [The IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/), Institute of Mathematical Statistics. _2023_
 
 - Top ten outstanding paper award, National Forum on Statistics for Graduate Students. _2023_ 
 
