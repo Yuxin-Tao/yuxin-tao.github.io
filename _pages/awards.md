@@ -5,11 +5,11 @@ permalink: /awards/
 author_profile: true
 ---
 
-- The IMS New Researcher Travel Award, Institute of Mathematical Statistics. _2026_	
+- [The IMS New Researcher Travel Award](https://imstat.org/2026/04/29/recipients-of-the-2026-ims-new-researcher-travel-awards-announced/), Institute of Mathematical Statistics. _2026_	
 	
-- ICSA China Conference Junior Research Award, International Chinese Statistical Association. _2026_
+- [ICSA China Conference Junior Research Award](https://www.icsa.org/wp-content/uploads/2026/08/icsa-member-news-july-2026_v1.pdf), International Chinese Statistical Association. _2026_
 
-- [The IMS Hannan Graduate Student Travel Award.](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/), Institute of Mathematical Statistics. _2023_
+- [The IMS Hannan Graduate Student Travel Award](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/), Institute of Mathematical Statistics. _2023_
 
 - Top ten outstanding paper award, National Forum on Statistics for Graduate Students. _2023_ 
 
@@ -31,7 +31,3 @@ author_profile: true
 - Provincial First Prize in the Chinese Mathematical Olympiad in Senior, China. _2013 & 2014_
 
 - Provincial First Prize in the Chinese Physics Olympiad, China. _2014_
-
-- Certificate of Distinction in the American Mathematics Contest (AMC), Mathematical Association of America. _2013_
-	
-- Certificate of Participation in the American Invitational Mathematics Examination (AIME), Mathematical Association of America. _2013_
