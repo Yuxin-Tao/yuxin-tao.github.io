@@ -39,7 +39,7 @@ _Proceedings of the National Academy of Sciences, U.S.A._, 121(4), e2312556121. 
 
 - **Tao, Y.** and Li, D. (2026). **Statistical inference for power autoregressive conditional duration models with stable innovations.** _Manuscript_.
 
-- Dai, C., Li, D. and **Tao, Y.** (2026). **Revisiting Poisson autoregressive models: structure and statistical inference.** \textit{Manuscript.}
+- Dai, C., Li, D. and **Tao, Y.** (2026). **Revisiting Poisson autoregressive models: structure and statistical inference.** _Manuscript_.
 
 ## Ph.D. dissertation
 
