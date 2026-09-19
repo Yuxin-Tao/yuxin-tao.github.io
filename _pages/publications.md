@@ -33,11 +33,13 @@ _Proceedings of the National Academy of Sciences, U.S.A._, 121(4), e2312556121. 
 
 - Ke, Z.T. and **Tao, Y.**<sup>*</sup> (2026). **Homogeneity pursuit in ranking inferences based on pairwise comparison.** _Submitted_.
 
-- Gong, H., Li, D. and **Tao, Y.**<sup>*</sup> (2026). **A unified framework for robust and efficient inference on GARCH models under heavy tails, skewness and nonstationarity.** _Submitted_.
+- Gong, H., Li, D. and **Tao, Y.**<sup>*</sup> (2026). **Robust and efficient inference for GARCH Models with heavy-tailed and asymmetric innovations.** _Submitted_.
 
-- **Tao, Y.**, Jiang, F. and Shao, X. (2026). **Generalized Spectral Testing with Sample Splitting.** _Submitted_. [[pdf]](https://arxiv.org/pdf/2605.29315)
+- **Tao, Y.**, Jiang, F. and Shao, X. (2026). **Generalized spectral testing with sample splitting.** _Submitted_. [[pdf]](https://arxiv.org/pdf/2605.29315)
 
 - **Tao, Y.** and Li, D. (2026). **Statistical inference for power autoregressive conditional duration models with stable innovations.** _Manuscript_.
+
+- Dai, C., Li, D. and **Tao, Y.** (2026). **Revisiting Poisson autoregressive models: structure and statistical inference.** \textit{Manuscript.}
 
 ## Ph.D. dissertation
 
