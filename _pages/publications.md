@@ -8,7 +8,7 @@ author_profile: true
 
 - **Tao, Y.**, Gong, H. and Li, D. (2026+). <br>
 **Asymmetric GARCH modelling without moment conditions.**  <br>
-_Statistica Sinica_, just accepted. [[pdf]](https://arxiv.org/pdf/2410.00574)
+_Statistica Sinica_, accepted. [[pdf]](https://arxiv.org/pdf/2410.00574)
 
 - **Tao, Y.**, Li, D. and Niu, X. (2024). <br>
 **Grouped network Poisson autoregressive model.** <br>
