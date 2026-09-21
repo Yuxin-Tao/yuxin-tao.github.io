@@ -29,6 +29,7 @@ author_profile: true
 - **2023** (Hangzhou, China):
 		BIRS-IASM Workshop: Harnessing the power of latent structure models and modern Big Data learning.
 - **2023** (Beijing, China): The 9th National Forum on Statistics for Graduate Students.
+- **2023** (Amherst, USA): Invited speaker to Statistics and Probability Seminar at UMass Amherst.
 - **2023** (Toronto, Canada): 2023 Joint Statistical Meetings.
 - **2022** (Hong Kong, China): IASC-ARS Interim Conference.
 - **2022** (Beijing, China): 
