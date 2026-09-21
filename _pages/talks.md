@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **2026** (Boston, USA): STAI-X Conference Poster Track. 
-- **2026** (Guiyang, China): The 4th Joint Conference on Statistics and Data Science (JCSDS) \& IMS China Biennial Meeting.
+- **2026** (Guiyang, China): The 4th Joint Conference on Statistics and Data Science (JCSDS) & IMS China Biennial Meeting.
 - **2026** (Guiyang, China): The 4th JCSDS Young Researchers Workshop.
 - **2026** (Shenzhen, China): International Chinese Statistical Association (ICSA) China Conference.
 - **2026** (Hong Kong, China): IMS New Researcher Conference -- Asia Conference.
