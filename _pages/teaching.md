@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Teaching & Group Members"
 permalink: /teaching/
 author_profile: true
 ---
